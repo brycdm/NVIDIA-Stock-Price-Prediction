@@ -12,7 +12,7 @@ Matplotlib: For visualizing actual vs. predicted stock prices, comparing perform
 
 ## Repository Contents
 
-nvidia_stock_prediction.py: The main code file for data extraction, feature engineering, model training, and predictions.
+nvidia_stock_prediction.py: The main code file for data extraction, model training, and predictions.
 
 NVIDIA_KPI_Summary.xlsx: Excel sheet with KPI metrics, benchmarks, and business implications for both Linear Regression and LSTM models.
 
