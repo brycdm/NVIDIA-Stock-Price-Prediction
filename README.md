@@ -27,9 +27,13 @@ nvidia_stock_data_with_indicators.csv: Contains the raw stock data downloaded fr
 This project is aimed at exploring stock price prediction using machine learning techniques. It’s ideal for finance enthusiasts, data scientists, and students interested in financial forecasting and machine learning applications in stock analysis.
 
 Clone the Repository: Download or clone the project files to your local environment.
+
 Install Required Libraries: pip install yfinance pandas numpy scikit-learn tensorflow matplotlib
+
 Run the Code: Run nvidia_stock_prediction.py to see the results and visualize actual vs. predicted stock prices.
+
 Analyze KPI Summary: Open NVIDIA_KPI_Summary.xlsx to review the performance metrics and business implications.
+
 Read the Project Summary PDF: The PDF document provides a narrative summary of the project’s findings and model evaluations.
 
 ## Project Summary
