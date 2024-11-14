@@ -20,7 +20,7 @@ NVIDIA_Actual_vs_Predicted_LSTM_and_LR.png: A chart comparing actual and predict
 
 NVIDIA_Stock_Price_Prediction_Analysis.pdf: A comprehensive project summary document covering project goals, methods, and KPIs.
 
-nvidia_stock_data.csv: Contains the raw stock data downloaded from Yahoo Finance, used for model training and analysis.
+nvidia_stock_data_with_indicators.csv: Contains the raw stock data downloaded from Yahoo Finance, used for model training and analysis.
 
 ## How to Use This Project
 
