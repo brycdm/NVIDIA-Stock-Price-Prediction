@@ -5,15 +5,21 @@ This project leverages machine learning to analyze and forecast NVIDIA’s stock
 ## Tools Used
 
 Python: For data preparation, technical indicator calculations, and model training.
+
 Excel: For organizing key performance indicators (KPIs), including RMSE and MAE metrics for each model.
+
 Matplotlib: For visualizing actual vs. predicted stock prices, comparing performance of Linear Regression and LSTM models.
 
 ## Repository Contents
 
 nvidia_stock_prediction.py: The main code file for data extraction, feature engineering, model training, and predictions.
+
 NVIDIA_KPI_Summary.xlsx: Excel sheet with KPI metrics, benchmarks, and business implications for both Linear Regression and LSTM models.
+
 NVIDIA_Actual_vs_Predicted_LSTM_and_LR.png: A chart comparing actual and predicted prices, showing the performance of both models.
+
 NVIDIA_Stock_Price_Prediction_Analysis.pdf: A comprehensive project summary document covering project goals, methods, and KPIs.
+
 nvidia_stock_data.csv: Contains the raw stock data downloaded from Yahoo Finance, used for model training and analysis.
 
 ## How to Use This Project
